@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: teamchart\n"
+"POT-Creation-Date: 2013-10-01 12:55+0100\n"
+"PO-Revision-Date: 2013-10-01 12:55+0100\n"
+"Last-Translator: Nicolas Hanzel\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: include\n"
+"X-Poedit-SearchPath-2: include/admin\n"
+
+#: include/admin/teamchart-free-admin-ajax.php:310
+msgid "No person found."
+msgstr "Aucune personne trouvée."
+
+#: include/admin/teamchart-free-admin-ajax.php:336
+msgid "add"
+msgstr "Ajouter"
+
+#: include/admin/teamchart-free-admin-ajax.php:365
+msgid "Click and drag on the image to select an area."
+msgstr "Cliquer et tracer un rectangle sur l'image."
+
+#: include/admin/teamchart-free-admin-ajax.php:368
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: include/admin/teamchart-free-admin-ajax.php:371
+msgid "Close"
+msgstr "Fermer"
+
+#: include/admin/teamchart-free-admin-ajax.php:631
+msgid "No chart found."
+msgstr "Aucun organigramme trouvé."
+
+#: include/admin/teamchart-free-admin.php:28
+msgid "Are you sure to delete this person ?"
+msgstr "Êtes vous sûr de supprimer cette personne ?"
+
+#: include/admin/teamchart-free-admin.php:29
+msgid "Delete this chart ?"
+msgstr "Supprimer ?"
+
+#: include/admin/teamchart-free-admin.php:30
+msgid "Yes"
+msgstr "Oui"
+
+#: include/admin/teamchart-free-admin.php:31
+msgid "No"
+msgstr "Non"
+
+#: include/admin/teamchart-free-admin.php:32
+#: include/admin/teamchart-free-popup-window.php:59
+msgid "Please select or add chart to build it !"
+msgstr "Veuillez choisir ou ajouter un organigramme."
+
+#: include/admin/teamchart-free-admin.php:33
+msgid "loading"
+msgstr "Chargement"
+
+#: include/admin/teamchart-free-admin.php:34
+msgid "Update person"
+msgstr "Mettre à jour"
+
+#: include/admin/teamchart-free-admin.php:35
+msgid "Update"
+msgstr "Ok"
+
+#: include/admin/teamchart-free-admin.php:36
+#: include/admin/teamchart-free-popup-window.php:86
+msgid "Upload or choose picture"
+msgstr "Choisir une image"
+
+#: include/admin/teamchart-free-admin.php:37
+#: include/admin/teamchart-free-popup-window.php:99
+msgid "Add person"
+msgstr "Ajouter une personne"
+
+#: include/admin/teamchart-free-admin.php:50
+msgid "Add Team Chart"
+msgstr "Ajouter un organigramme"
+
+#: include/admin/teamchart-free-popup-window.php:23
+msgid "Chart"
+msgstr "Organigramme"
+
+#: include/admin/teamchart-free-popup-window.php:32
+msgid "Manage multiple flow chart with Team Chart pro version, read more."
+msgstr ""
+"Ajouter et gérer plusieurs organigramme avec la version Team Chart Pro, en "
+"savoir plus."
+
+#: include/admin/teamchart-free-popup-window.php:50
+msgid "Resize image in one click with pro version, read more."
+msgstr ""
+"Redimensionner les images en un click avec la version Pro, en savoir plus."
+
+#: include/admin/teamchart-free-popup-window.php:55
+msgid "To start, Add a new person in your teamchart."
+msgstr "Pour commencer, Ajouter une nouvelle personne dans votre organigramme."
+
+#: include/admin/teamchart-free-popup-window.php:75
+msgid "Apply reponsives themes with pro version, read more."
+msgstr ""
+"Choisissez plusieurs thème responsive avec la version Team Chart Pro, en "
+"savoir plus."
+
+#: include/admin/teamchart-free-popup-window.php:79
+msgid "Insert chart"
+msgstr "Insérer"
+
+#: include/admin/teamchart-free-popup-window.php:84
+msgid "Picture"
+msgstr "Image"
+
+#: include/admin/teamchart-free-popup-window.php:92
+msgid "Name"
+msgstr "Nom"
+
+#: include/admin/teamchart-free-popup-window.php:93
+msgid "Enter name..."
+msgstr "Entrer un nom…"
+
+#: include/admin/teamchart-free-popup-window.php:94
+msgid "Position"
+msgstr "Poste occupé"
+
+#: include/admin/teamchart-free-popup-window.php:95
+msgid "Enter position…"
+msgstr "Entrer un poste occupé…"
+
+#: include/admin/teamchart-free-popup-window.php:103
+msgid "Search person"
+msgstr "Chercher une personne"
+
+#~ msgid "Chart name"
+#~ msgstr "Nom de l'organigramme"
+
+#~ msgid "add new chart"
+#~ msgstr "Ajouter"
+
+#~ msgid "Default theme"
+#~ msgstr "Thème par défaut"
+
+#~ msgid "Circle theme"
+#~ msgstr "Thème circle"
+
+#~ msgid "Nature theme"
+#~ msgstr "Thème nature"
